@@ -1,0 +1,2 @@
+PENDING — replace this line after publishing with your actual public website URL.
+Example format only: https://your-github-username.github.io/your-repository-name/
